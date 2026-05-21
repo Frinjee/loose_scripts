@@ -1,0 +1,24 @@
+{
+  "name": "wikigacha_autofarm",
+  "version": "1.0.0",
+  "description": "Automation too for wikigacha.com",
+  "main": "wikigacha_autofarm.user.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Frinjee/userscripts.git"
+  },
+  "author": "Frinjee",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Frinjee/userscripts/issues"
+  },
+  "homepage": "https://github.com/Frinjee/userscripts#readme",
+  "devDependencies": {
+    "@eslint/css": "^1.0.0",
+    "eslint": "^10.1.0",
+    "globals": "^17.4.0"
+  }
+}

@@ -1,0 +1,10 @@
+# general
+./userscripts/package.json
+./userscripts/package-lock.json
+# npm
+./userscripts/node_modules/
+# eslint
+./userscripts/eslint.config.mjs
+
+./zotero_groupitemfetch/.vvs
+./media-dls/.vvs
